@@ -1,6 +1,6 @@
 # Patch-TuringBook-Epub
 
-> [用户脚本] 修复图灵电子出版系统中的各种小问题。
+> [用户脚本] 修复图灵 Epub 系统中的各种小问题。
 
 ## 功能
 
@@ -29,5 +29,5 @@
 1. 点击 [此链接](https://raw.githubusercontent.com/UserScript/TuringBook-Epub-Patch/master/dist/turingbook-epub-patch.user.js
 ) 开始安装。
 2. 如果浏览器正确安装了上述扩展，会提示安装。确认即可。
-3. 此后登录图灵电子出版系统，此脚本会自动工作，无需任何额外操作。
+3. 此后登录相关页面，此脚本会自动工作，无需任何额外操作。
 
