@@ -26,7 +26,8 @@
 
 ## 安装
 
-1. 点击 [此链接](https://rawgit.com/UserScript/TuringBook-Epub-Patch/master/dist/turingbook-epub-patch.user.js) 开始安装。
+1. 点击 [此链接](https://raw.githubusercontent.com/UserScript/TuringBook-Epub-Patch/master/dist/turingbook-epub-patch.user.js
+) 开始安装。
 2. 如果浏览器正确安装了上述扩展，会提示安装。确认即可。
 3. 此后登录图灵电子出版系统，此脚本会自动工作，无需任何额外操作。
 
